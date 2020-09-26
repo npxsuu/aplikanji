@@ -29,7 +29,7 @@
   [
   {
     "id":1,
-    "judul":"Ludo King",
+    "judul":"Edible Plants for Survival",
     "image":"https://lh3.googleusercontent.com/sU5pRr1xfBGrvP5E2w7RigfvkZx6Hk9PXybqSgIA8uZHI6ZTZfLc--Wuem7IWgMWcYI=s180-rw",
     "link":"https://play.google.com/store/apps/details?id=com.edibleplants.forsurvivalfan"
   }
@@ -73,7 +73,7 @@
      "id_guide":"002",
     "nama_cat":"Tips",
     "judul":"Guide 2",
-    "image":"file:///android_asset/gambar/como2.jpg",
+    "image":"file:///android_asset/gambar/como2.png",
     "link":"file:///android_asset/como2.html",
     "deskripsi":"¿Quiéres saber con quién chatea tu pareja sentimental en WhatsApp? Hay una aplicación disponible para dispositivos Android que te permite saber la identidad de los usuarios que sostienen conversaciones de texto con tu pareja amorosa."
   },
