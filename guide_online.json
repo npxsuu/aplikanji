@@ -2,7 +2,7 @@
     
     "Iklan": [
         {
-        "status": "1",
+        "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
         "interid": "ca-app-pub-3940256099942544/1033173712",
         "nativeid": "ca-app-pub-3940256099942544/2247696110",
@@ -75,7 +75,7 @@
     "id":1,
     "id_guide":"001",
     "nama_cat":"Guide",
-    "judul":"Como Saber blabla",
+    "judul":"Guide 1",
     "image":"file:///android_asset/gambar/como1.jpg",
     "link":"file:///android_asset/como1.html",
     "deskripsi":"Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile."
@@ -84,7 +84,7 @@
     "id":2,
      "id_guide":"002",
     "nama_cat":"Guide",
-    "judul":"Chatea mi parjea",
+    "judul":"Guide 2",
     "image":"file:///android_asset/gambar/como2.jpg",
     "link":"file:///android_asset/como2.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
@@ -94,18 +94,18 @@
     "id":3,
      "id_guide":"003",
     "nama_cat":"Guide",
-    "judul":"Chatea me pareja",
+    "judul":"Guide 3",
     "image":"file:///android_asset/gambar/como3.jpg",
-    "link":"http://hexa.web.id/como3.html",
+    "link":"file:///android_asset/como3.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   },
       {
     "id":4,
      "id_guide":"004",
     "nama_cat":"Guide",
-    "judul":"Chatea me pareja",
+    "judul":"Guide 4",
     "image":"file:///android_asset/gambar/como4.jpg",
-    "link":"http://hexa.web.id/como4.html",
+    "link":"file:///android_asset/como4.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   },
           {
@@ -114,7 +114,7 @@
     "nama_cat":"Guide",
     "judul":"Hballa Chatea me pareja",
     "image":"file:///android_asset/gambar/como5.jpg",
-    "link":"http://hexa.web.id/como5.html",
+    "link":"file://android_asset/como5.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   },
               {
@@ -123,7 +123,7 @@
     "nama_cat":"Guide",
     "judul":"Habla Chatea me pareja",
     "image":"file:///android_asset/gambar/como6.jpg",
-    "link":"http://hexa.web.id/como6.html",
+    "link":"file://android_assett/como6.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   }
 
