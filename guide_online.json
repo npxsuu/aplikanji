@@ -30,20 +30,8 @@
   {
     "id":1,
     "judul":"Ludo King",
-    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-  },
-  {
-    "id":2,
-    "judul":"Homescapes",
-    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-  },
-  {
-    "id":3,
-    "judul":"Asut",
-    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    "image":"https://lh3.googleusercontent.com/sU5pRr1xfBGrvP5E2w7RigfvkZx6Hk9PXybqSgIA8uZHI6ZTZfLc--Wuem7IWgMWcYI=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.edibleplants.forsurvivalfan"
   }
 ],
 
@@ -52,19 +40,19 @@
     {
       "id": 1,
       "nama_cat": "Guide",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+      "gambar": "https://img.freepik.com/free-vector/tips-label-concept_23-2147873144.jpg?size=338&ext=jpg&ga=GA1.2.589017643.1601092634"
      
     },
     {
       "id": 2,
       "nama_cat": "Tips",
-      "gambar": "https://cdn02.indozone.id/re/content/2019/11/21/8Js7rN/t_5dd64b08483f2.jpg?w=700&q=85"
+      "gambar": "https://img.freepik.com/free-vector/tips-concept-with-woman_23-2147874924.jpg"
     
     },
     {
       "id": 3,
       "nama_cat": "Trick",
-      "gambar": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+      "gambar": "https://img.freepik.com/free-vector/origami-tips-concept_23-2147873163.jpg?size=338&ext=jpg&ga=GA1.2.589017643.1601092634"
     
     }
   ],
