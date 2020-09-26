@@ -112,18 +112,18 @@
     "id":5,
      "id_guide":"005",
     "nama_cat":"Guide",
-    "judul":"Hballa Chatea me pareja",
+    "judul":"Guide 5",
     "image":"file:///android_asset/gambar/como5.jpg",
-    "link":"file://android_asset/como5.html",
+    "link":"file:///android_asset/como5.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   },
               {
     "id":6,
      "id_guide":"006",
     "nama_cat":"Guide",
-    "judul":"Habla Chatea me pareja",
+    "judul":"Guide 6",
     "image":"file:///android_asset/gambar/como6.jpg",
-    "link":"file://android_asset/como6.html",
+    "link":"file:///android_asset/como6.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   }
 
