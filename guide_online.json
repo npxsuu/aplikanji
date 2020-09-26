@@ -71,7 +71,7 @@
   {
     "id":2,
      "id_guide":"002",
-    "nama_cat":"Guide",
+    "nama_cat":"Tips",
     "judul":"Guide 2",
     "image":"file:///android_asset/gambar/como2.jpg",
     "link":"file:///android_asset/como2.html",
@@ -90,7 +90,7 @@
       {
     "id":4,
      "id_guide":"004",
-    "nama_cat":"Guide",
+    "nama_cat":"Trick",
     "judul":"Guide 4",
     "image":"file:///android_asset/gambar/como4.jpg",
     "link":"file:///android_asset/como4.html",
@@ -108,7 +108,7 @@
               {
     "id":6,
      "id_guide":"006",
-    "nama_cat":"Guide",
+    "nama_cat":"Tips",
     "judul":"Guide 6",
     "image":"file:///android_asset/gambar/como6.jpg",
     "link":"file:///android_asset/como6.html",
@@ -118,8 +118,8 @@
     "id":7,
      "id_guide":"007",
     "nama_cat":"Guide",
-    "judul":"Guide 6",
-    "image":"file:///android_asset/gambar/como6.jpg",
+    "judul":"Guide 7",
+    "image":"file:///android_asset/gambar/como7.jpg",
     "link":"file:///android_asset/como7.html",
     "deskripsi":"¿Te sientes cómodo 'espiando' a tu pareja? El truco ideal para descubrir con que frecuencia tu pareja mantiene contacto..."
   }
