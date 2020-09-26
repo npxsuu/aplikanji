@@ -123,7 +123,7 @@
     "nama_cat":"Guide",
     "judul":"Habla Chatea me pareja",
     "image":"file:///android_asset/gambar/como6.jpg",
-    "link":"file://android_assett/como6.html",
+    "link":"file://android_asset/como6.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   }
 
