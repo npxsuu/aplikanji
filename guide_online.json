@@ -120,7 +120,7 @@
     "nama_cat":"Guide",
     "judul":"Guide 6",
     "image":"file:///android_asset/gambar/como6.jpg",
-    "link":"https://telegra.ph/Testing-Sebuah-Situs-09-26",
+    "link":"file:///android_asset/como7.html",
     "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
   }
 
