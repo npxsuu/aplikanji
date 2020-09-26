@@ -66,7 +66,7 @@
     "judul":"Guide 1",
     "image":"file:///android_asset/gambar/como1.jpg",
     "link":"file:///android_asset/como1.html",
-    "deskripsi":"Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile."
+    "deskripsi":"No es necesario descargar una aplicación adicional para saber con quien chatea tu pareja en WhatsApp. En los mismos ajustes de la app puedes saberlo."
   },
   {
     "id":2,
@@ -75,7 +75,7 @@
     "judul":"Guide 2",
     "image":"file:///android_asset/gambar/como2.jpg",
     "link":"file:///android_asset/como2.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi"
+    "deskripsi":"¿Quiéres saber con quién chatea tu pareja sentimental en WhatsApp? Hay una aplicación disponible para dispositivos Android que te permite saber la identidad de los usuarios que sostienen conversaciones de texto con tu pareja amorosa."
   },
 
   {
@@ -85,7 +85,7 @@
     "judul":"Guide 3",
     "image":"file:///android_asset/gambar/como3.jpg",
     "link":"file:///android_asset/como3.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "deskripsi":"WhatsApp se ha convertido en una aplicación de uso diario, permitiendo el envío y recepción mensajes instantáneos con cualquiera de tus contactos..."
   },
       {
     "id":4,
@@ -94,7 +94,7 @@
     "judul":"Guide 4",
     "image":"file:///android_asset/gambar/como4.jpg",
     "link":"file:///android_asset/como4.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "deskripsi":"WhatsApp, la plataforma de mensajería instantánea más usada en el mundo, cuenta con una función que puede serte de utilidad...."
   },
           {
     "id":5,
@@ -103,7 +103,7 @@
     "judul":"Guide 5",
     "image":"file:///android_asset/gambar/como5.jpg",
     "link":"file:///android_asset/como5.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "deskripsi":"¿Es verdad que se puede entrar a la cuenta de WhatsApp de otra persona sin que se de cuenta? Muchos lo ha intentado.."
   },
               {
     "id":6,
@@ -112,7 +112,7 @@
     "judul":"Guide 6",
     "image":"file:///android_asset/gambar/como6.jpg",
     "link":"file:///android_asset/como6.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "deskripsi":"En épocas donde la privacidad de datos es cada vez más difícil de cuidar, antes de tomar medidas como leer los término..."
   },
         {
     "id":7,
@@ -121,7 +121,7 @@
     "judul":"Guide 6",
     "image":"file:///android_asset/gambar/como6.jpg",
     "link":"file:///android_asset/como7.html",
-    "deskripsi":"Ini contoh deskripsi guide/tutorial ka tiga pada json online, silahkan upload file html di hosting"
+    "deskripsi":"¿Te sientes cómodo 'espiando' a tu pareja? El truco ideal para descubrir con que frecuencia tu pareja mantiene contacto..."
   }
 
 ]
